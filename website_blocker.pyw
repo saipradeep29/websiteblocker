@@ -34,4 +34,4 @@ while True:
                 
             file.truncate(0)    
     
-    time.sleep(10)
+    time.sleep(100)
