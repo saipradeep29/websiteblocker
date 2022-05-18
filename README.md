@@ -17,22 +17,22 @@ run the file using python .add the websites that you want to block in website li
 
 # Automate script
 
-go to >task_scheduler >create_task> mark the run with high privilage >ok
+//go to >task_scheduler >create_task> mark the run with high privilage >ok
 ![wb11](https://user-images.githubusercontent.com/105792542/169060173-18954d3c-e32c-4429-82fa-5073902d13cc.png)
 
 
 
-new trigger> begin_task :- startup>ok
+//new trigger> begin_task :- startup>ok
 ![wb12](https://user-images.githubusercontent.com/105792542/169060794-41603cc6-ea25-4ae1-96b8-72020fad3cbd.png)
 
 
 
-actions> start program>program script :- you need to add script with extension .pyw
+//actions> start program>program script :- you need to add script with extension .pyw
 ![wb13](https://user-images.githubusercontent.com/105792542/169060849-cc7d0dbd-1b18-464d-a336-d2cb661088b8.png)
 
 
 
-conditions> uncheck all
+//conditions> uncheck all
 
 
 # RUN
