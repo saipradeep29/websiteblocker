@@ -13,7 +13,8 @@ For Linux path is – “/etc/hosts”
 For Mac OS X path is– “/private/etc/hosts”
 
 # Getting started
-run the file using python .add the websites that you want to block in website list 
+first add websites you want to block in Blocklist in code
+run the script using python
 
 # Automate script
 
