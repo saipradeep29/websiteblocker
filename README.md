@@ -13,15 +13,15 @@ For Linux path is – “/etc/hosts”
 For Mac OS X path is– “/private/etc/hosts”
 
 # Getting started
-//add path of hosts  to host_path in code
+/add path of hosts  to host_path in code
 
 example :hosts_path="C:\Windows\System32\drivers\etc\hosts"
 
-//add websites you want to block in website_list in the code
+/add websites you want to block in website_list in the code
 
  example :website_list=["instagram.com","spankbang.com"]
  
-run the script using python
+/run the script using python
 
 # Automate script
 
