@@ -31,4 +31,4 @@ while True:
             file.close()
             
     
-    time.sleep(10)
+    time.sleep(100)
